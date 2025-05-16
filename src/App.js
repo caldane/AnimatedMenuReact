@@ -1,5 +1,4 @@
 import React from "react";
-import Game from "./Components/Game/Game";
 import "./styles.css";
 
 const App = () => {
